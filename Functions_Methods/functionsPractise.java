@@ -1,6 +1,4 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.Scanner;
 public class functionsPractise {
   public static void main(String[] args) {
     // int ans = sum2();
